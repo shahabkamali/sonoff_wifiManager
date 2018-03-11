@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/shahab/.platformio/penv/bin:/home/shahab/.platformio/penv:/home/shahab/bin:/home/shahab/.local/bin:/home/shahab/bin:/home/shahab/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
